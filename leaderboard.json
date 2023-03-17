@@ -1,0 +1,143 @@
+{
+  "maxPossibleScore": 31,
+  "microanalytics": [
+    {
+      "type": "HardestQuestion",
+      "value": "console.log( 10 + \"3\" );\nconsole.log( 10 - \"3\" )",
+      "magnitude": 0
+    },
+    {
+      "type": "EasiestQuestion",
+      "value": "Cosa sono node ed npm?",
+      "magnitude": 100
+    }
+  ],
+  "rows": [
+    {
+      "eventUserId": 348331451,
+      "name": "Mattia",
+      "score": 20,
+      "rank": 1,
+      "milliseconds": 493710
+    },
+    {
+      "eventUserId": 348331872,
+      "name": "Mao Zedong sul monopattino",
+      "score": 19,
+      "rank": 2,
+      "milliseconds": 562141
+    },
+    {
+      "eventUserId": 348331647,
+      "name": "Filippo Corbellini Di Alliste",
+      "score": 18,
+      "rank": 3,
+      "milliseconds": 487553
+    },
+    {
+      "eventUserId": 348331324,
+      "name": "Alberio",
+      "score": 18,
+      "rank": 4,
+      "milliseconds": 570927
+    },
+    {
+      "eventUserId": 348332002,
+      "name": "Giacomo Imbriani ",
+      "score": 18,
+      "rank": 5,
+      "milliseconds": 739682
+    },
+    {
+      "eventUserId": 348331389,
+      "name": "Stefano Orlando",
+      "score": 16,
+      "rank": 6,
+      "milliseconds": 588562
+    },
+    {
+      "eventUserId": 348331280,
+      "name": "Loris",
+      "score": 16,
+      "rank": 7,
+      "milliseconds": 659807
+    },
+    {
+      "eventUserId": 348331446,
+      "name": "Alessio ingrosso",
+      "score": 16,
+      "rank": 8,
+      "milliseconds": 663088
+    },
+    {
+      "eventUserId": 348331344,
+      "name": "Simone il Barese",
+      "score": 15,
+      "rank": 9,
+      "milliseconds": 738508
+    },
+    {
+      "eventUserId": 348332410,
+      "name": "Alberto2",
+      "score": 15,
+      "rank": 10,
+      "milliseconds": 739298
+    },
+    {
+      "eventUserId": 348331616,
+      "name": "Stefano Leone",
+      "score": 14,
+      "rank": 11,
+      "milliseconds": 447505
+    },
+    {
+      "eventUserId": 348331968,
+      "name": "L'albanese di Brindisi",
+      "score": 14,
+      "rank": 12,
+      "milliseconds": 665527
+    },
+    {
+      "eventUserId": 348331331,
+      "name": "Davide C",
+      "score": 13,
+      "rank": 13,
+      "milliseconds": 312883
+    },
+    {
+      "eventUserId": 348332556,
+      "name": "Gabriele",
+      "score": 13,
+      "rank": 14,
+      "milliseconds": 520445
+    },
+    {
+      "eventUserId": 348331860,
+      "name": "Nasone",
+      "score": 11,
+      "rank": 15,
+      "milliseconds": 576423
+    },
+    {
+      "eventUserId": 348331332,
+      "name": "Luca",
+      "score": 11,
+      "rank": 16,
+      "milliseconds": 693615
+    },
+    {
+      "eventUserId": 348331623,
+      "name": "Alessandro Stano",
+      "score": 9,
+      "rank": 17,
+      "milliseconds": 485153
+    },
+    {
+      "eventUserId": 348346861,
+      "name": "Davide C",
+      "score": 3,
+      "rank": 18,
+      "milliseconds": 128326
+    }
+  ]
+}
